@@ -95,9 +95,6 @@ df.groupby("Gender")["What's your mental health status?"].mean()
 - Treat all free-text responses with empathy; some describe traumatic experiences.
 - If you build models using this data, please report on biases and limitations transparently.
 - This dataset is **not** a clinical instrument and should not be used to diagnose individuals.
-
-If you or someone you know is struggling, please reach out to a mental health professional or a helpline such as **iCall India: +91 9152987821** or **Vandrevala Foundation: 1860-2662-345**.
-
 ---
 
 ## 📚 Citation
@@ -106,7 +103,7 @@ If you use this dataset in your work, please cite it as:
 
 ```
 [Your Name]. (2025). BiasAware Dataset: A Survey on Mental Health and AI Bias.
-GitHub repository, https://github.com/hirakmaa/BiasAwareset
+GitHub repository, https://github.com/hirakmaa/BiasAware
 ```
 
 ---
