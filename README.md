@@ -102,7 +102,7 @@ df.groupby("Gender")["What's your mental health status?"].mean()
 If you use this dataset in your work, please cite it as:
 
 ```
-[Your Name]. (2025). BiasAware Dataset: A Survey on Mental Health and AI Bias.
+Hirak Mazumdar. (2025). BiasAware Dataset: A Survey on Mental Health and AI Bias.
 GitHub repository, https://github.com/hirakmaa/BiasAware
 ```
 
